@@ -8,6 +8,14 @@
 </p>
 
 
+
+
+<h2 align="center"> ABOUT ME - 🦅 </h2>
+
+### I am a passionate developer, that has the desire to sharp your current skills and master the most important programming languages.
+
+---
+
 <!--
 **GeorgeNady/GeorgeNady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
