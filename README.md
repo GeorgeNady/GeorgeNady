@@ -1,6 +1,11 @@
-# George Nady
----
-### Hi there 👋
+<h1 align="center">George Nady</h1>
+
+<p align="center">
+	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/years/GeorgeNady?color=blue" alt="Yuri Github Years" width="70" /></a>&nbsp;&nbsp;
+	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://komarev.com/ghpvc/?username=GeorgeNady&color=blue" alt="Yuri Github Years" width="120" /></a>&nbsp;&nbsp;
+	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/repos/GeorgeNady?color=blue" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
+</p>
+
 
 <!--
 **GeorgeNady/GeorgeNady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +27,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeNady&layout=compact&hide=shell&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/years/GeorgeNady?color=blue" alt="Yuri Github Years" width="70" /></a>&nbsp;&nbsp;
-	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://komarev.com/ghpvc/?username=GeorgeNady&color=blue" alt="Yuri Github Years" width="120" /></a>&nbsp;&nbsp;
-	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/repos/GeorgeNady?color=blue" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
-</p>
+
