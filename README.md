@@ -1,4 +1,5 @@
-<h1 align="center"> George Nady </h1>
+# George Nady
+---
 ### Hi there 👋
 
 <!--
