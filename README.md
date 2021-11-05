@@ -2,8 +2,9 @@
 
 <p align="center">
 	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/years/GeorgeNady?color=blue" alt="Yuri Github Years" width="70" /></a>&nbsp;&nbsp;
+	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/repos/GeorgeNady?color=yellow" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
 	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://komarev.com/ghpvc/?username=GeorgeNady&color=green" alt="Yuri Github Years" width="120" /></a>&nbsp;&nbsp;
-	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/repos/GeorgeNady?color=yello" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
+	
 </p>
 
 
