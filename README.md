@@ -19,7 +19,7 @@
 <h2 align="center"> MY GITHUB STATS - 📣 </h2>
 
 <p align="center">
-	<a target="_blank" href="https://github.com/GeorgeNady/github-readme-stats"><img src="https://github-readme-stats.yurijserrano.vercel.app/api?username=GeorgeNady&count_private=true&show_icons=true&theme=graywhite" width="400" /></a>
+	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://github-readme-stats.vercel.app/api?username=GeorgeNady&count_private=true&show_icons=true&theme=graywhite" width="400" /></a>
 </p>
 
 <!--
@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=GeorgeNady&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/GeorgeNady/hosha-refactor)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=GeorgeNady&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/GeorgeNady)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeNady&layout=compact&hide=shell&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/GeorgeNady/hosha-refactor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeNady&layout=compact&hide=shell&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/GeorgeNady)
 
 
