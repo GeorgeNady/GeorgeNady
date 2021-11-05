@@ -22,6 +22,13 @@
 	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://github-readme-stats.vercel.app/api?username=GeorgeNady&count_private=true&show_icons=true&theme=radical" width="400" /></a>
 </p>
 
+---
+
+<h2 align="center"> SPOTIFY PLAYING NOW - 🎧 </h2>
+
+<p align="center">
+	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeNady&theme=radical" width="400" /></a>
+</p>
 <!--
 **GeorgeNady/GeorgeNady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
