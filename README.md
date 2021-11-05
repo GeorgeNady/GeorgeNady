@@ -1,9 +1,9 @@
 <h1 align="center">George Nady</h1>
 
 <p align="center">
-	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/years/GeorgeNady?color=LightGreen" alt="Yuri Github Years" width="70" /></a>&nbsp;&nbsp;
-	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/repos/GeorgeNady?color=LightGreen" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
-	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://komarev.com/ghpvc/?username=GeorgeNady&color=LightGreen" alt="Yuri Github Years" width="120" /></a>&nbsp;&nbsp;
+	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/years/GeorgeNady?color=#90EE90" alt="Yuri Github Years" width="70" /></a>&nbsp;&nbsp;
+	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://badges.pufler.dev/repos/GeorgeNady?color=#90EE90" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
+	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://komarev.com/ghpvc/?username=GeorgeNady&color=#90EE90" alt="Yuri Github Years" width="120" /></a>&nbsp;&nbsp;
 	
 </p>
 
