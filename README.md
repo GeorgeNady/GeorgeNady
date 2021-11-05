@@ -19,7 +19,7 @@
 <h2 align="center"> MY GITHUB STATS - 📣 </h2>
 
 <p align="center">
-	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://github-readme-stats.vercel.app/api?username=GeorgeNady&count_private=true&show_icons=true&theme=graywhite" width="400" /></a>
+	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://github-readme-stats.vercel.app/api?username=GeorgeNady&count_private=true&show_icons=true&theme=radical" width="400" /></a>
 </p>
 
 <!--
