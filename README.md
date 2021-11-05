@@ -16,6 +16,13 @@
 
 ---
 
+<h2 align="center"> MY GITHUB STATS - 📣 </h2>
+
+<p align="center">
+	<a target="_blank" href="https://github.com/GeorgeNady/github-readme-stats"><img src="https://github-readme-stats.GeorgeNady.vercel.app/api?username=yurijserrano&count_private=true&show_icons=true&theme=graywhite" width="400" /></a>
+</p>
+
+
 <!--
 **GeorgeNady/GeorgeNady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
