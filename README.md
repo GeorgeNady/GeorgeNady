@@ -1,4 +1,4 @@
-<h1 align="center"> Yuri "Eagle" Serrano </h1>
+<h1 align="center"> George Nady </h1>
 ### Hi there 👋
 
 <!--
