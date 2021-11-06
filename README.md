@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center"> SPOTIFY PLAYING NOW - 🎧 </h2>
+<h2 align="center"> MOST USED LANGUAGES - 👨‍💻 </h2>
 
 <p align="center">
 	<a target="_blank" href="https://github.com/GeorgeNady"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeNady&theme=radical&layout=compact" width="400" /></a>
