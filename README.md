@@ -34,8 +34,25 @@
 
 <h2 align="center"> LANGUAGES & TOOLS & SERVICES - 🧰 </h2>
 
+<h3 align="center">TOOLS</h3>
 <p align="center">
-	 <p align="center">TOOLS</p>
+	 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/android-studio.svg"></code>
+     <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/intellij.svg"></code>
+	 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/text%20editors/vscode.svg"></code>
+     <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/pycharm.svg"></code>
+     <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/text%20editors/sublime.svg"></code>
+     <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/notepad%2B%2B.png"></code>
+     <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/eclipse.png"></code>
+     <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/text%20editors/atom.svg"></code>
+<p/>
+
+
+
+
+
+
+
+<p align="center">
 	 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/ides/android-studio.svg"></code>
   	 <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg"></code>
      <code><img width="5%" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/kotlin.svg"></code>
